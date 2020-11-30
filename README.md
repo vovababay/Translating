@@ -4,3 +4,4 @@
 * pip install tkintertable
 * pip install easygui
 * pip install python-docx
+## To run it in the console, enter the command "python main.py"
